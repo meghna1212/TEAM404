@@ -1,0 +1,20 @@
+{% extends "blog/base2.html" %}
+{% load static %} 
+<link rel="stylesheet" href="{% static 'js/app.js' %}">
+{% block content %}
+    <h1>Ranked Candidates</h1>
+    <ul id="list" >
+        <li> 1. Ajun Aggarwal</li>
+        <li> 2. Vinnet Upadhay</li>
+        <li> 3. Himanshu Goyal</li>
+        <li> 4. Anushka Sindhi</li>
+        <li> 5. Ambika Garg</li>
+        <li> 6. Ruchi Sabarwal</li>
+        <li> 7. Yash Dhawan</li>
+        <li> 8. Himanshi kharotia</li>
+        <li> 9. Bhawna Khosla</li>
+        <li>10. Meghna Rai</li>
+      </ul>
+      <button id="show-more">Show more</button>  
+{% endblock content %}
+
