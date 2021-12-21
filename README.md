@@ -26,3 +26,10 @@ The features and functions that are provided by this software or product are as 
 6. Rank Resume 
 7. View Analytics Dashboard 
 8. Email Candidate 
+
+
+### Created By:
+101903033 MEGHNA RAI 
+101903035 BHAWNA KHOSLA
+101903038 YASH DHAWAN 
+101903039 HIMANSHI KHAROTIA 
