@@ -29,7 +29,7 @@ The features and functions that are provided by this software or product are as 
 
 
 ### Created By:
-Meghna Rai        101903033
-Bhawna Khosla     101903035 
-Yash Dhawan       101903038 
+Meghna Rai        101903033 \
+Bhawna Khosla     101903035 \
+Yash Dhawan       101903038 \
 Himanshi Kharotia 101903039
