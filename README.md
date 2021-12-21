@@ -14,3 +14,15 @@ consistent and fair CV ranking policy. It will rank the CVs according to the can
 experience and key skills required for particular job position. 
 This system will ultimately help reduce the workload of the hiring department and select the 
 right candidate for the desired job profile, which in turn provide the expert for the organization
+
+
+### Product Features 
+The features and functions that are provided by this software or product are as follows: 
+1. Login 
+2. Upload CV 
+3. Update CV 
+4. View CV 
+5. View Status 
+6. Rank Resume 
+7. View Analytics Dashboard 
+8. Email Candidate 
